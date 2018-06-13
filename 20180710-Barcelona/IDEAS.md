@@ -34,5 +34,9 @@ depends on Taurus.
     * General Hooks
     * Configuration Tools
 
+* Documentation that needs review
+   * [Scan hooks](http://www.sardana-controls.org/en/latest/devel/howto_macros/scan_framework.html#sardana-macros-scanframework). Make clear the difference between the hooks from the Hooks API and the generator from GSF.
+
+
 * Documentation of the macros in the macro catalogue is duplicated. We need 
 to find a way on how to reuse the macro classes/functions docstrings. 
